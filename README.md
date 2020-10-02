@@ -1,7 +1,7 @@
 ![PHP](https://i.imgur.com/zKNamd9.png)
 
 ## :superhero: AnRi Bank
-Este repositório contém o pequeno projeto de simulação de um banco que foi proposto no curso **Orientação a Objetos com PHP: Classes, métodos e atributos** ministrado por [Vinicius Dias](https://github.com/cviniciussdias) na plataforma de cursos [Alura](https://www.alura.com.br/).
+Este repositório contém um pequeno projeto de simulação de um banco que foi proposto no curso **Orientação a Objetos com PHP: Classes, métodos e atributos** ministrado por [Vinicius Dias](https://github.com/cviniciussdias) na plataforma de cursos [Alura](https://www.alura.com.br/).
 
 ##  :clipboard: Sobre o projeto
 Foram feitas algumas alterações e implementadas outras funcionalidades. Diferente de outro projeto como mesmo nome, desta vez foi utilizado POO.
