@@ -22,7 +22,7 @@ Executar no diretório do projeto
 `$php -S localhost:8000 `
 
 ## :pencil2: Licença
-Este projeto esta sobe a licença MIT.
+Este projeto sob licença MIT.
 
 Feito com ❤️ por Ricardo Santana
 
